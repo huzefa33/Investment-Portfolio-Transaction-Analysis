@@ -20,9 +20,7 @@ Geographic Insights: Used mapping to track investments across 12 states, identif
 Forecasting: Added predictive analytics to project portfolio growth for the next 6 months, showing an expected 5–7% upward trend.
 Scenario Analysis: Implemented What-if parameters to simulate investment strategy changes (e.g., increasing equity allocation by 10% would raise ROI by ~2%).
 
-Impact:-
-
-This dashboard provided a 360° view of portfolio health, enabling stakeholders to:
+Impact:- This dashboard provided a 360° view of portfolio health, enabling stakeholders to:
 
 Reallocate investments toward higher-performing sectors.
 
