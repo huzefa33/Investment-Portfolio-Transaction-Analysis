@@ -21,9 +21,4 @@ Forecasting: Added predictive analytics to project portfolio growth for the next
 Scenario Analysis: Implemented What-if parameters to simulate investment strategy changes (e.g., increasing equity allocation by 10% would raise ROI by ~2%).
 
 Impact:- This dashboard provided a 360° view of portfolio health, enabling stakeholders to:
-
-Reallocate investments toward higher-performing sectors.
-
-Manage risk exposure effectively across asset classes.
-
-Plan future strategies using forecasting and scenario simulations.
+Reallocate investments toward higher-performing sectors, Manage risk exposure effectively across asset classes, Plan future strategies using forecasting and scenario simulations.
