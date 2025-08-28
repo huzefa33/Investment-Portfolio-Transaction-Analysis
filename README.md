@@ -1,5 +1,6 @@
 # Investment-Portfolio-Transaction-Analysis 
 Tools & Technologies:- Power BI, Power Query, DAX, Data Modeling, Data Visualization, Forecasting
+
 Project Overview:-
 Developed an interactive Power BI dashboard to analyze investment portfolios and transaction-level data, providing actionable insights into asset allocation, transaction trends, risk exposure, and overall portfolio performance.
 
